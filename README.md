@@ -1,2 +1,2 @@
 # Curso-Math-ML
-Curso completo de Matemáticas para Machine Learning creado por mi para CCOL
+Curso completo de Matemáticas para Machine Learning creado por Ivan Martinez (yo) para CCOL
